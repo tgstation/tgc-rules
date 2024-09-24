@@ -28,7 +28,6 @@
 1.5: Then, each player may mulligan cards in their hand. <br>
     1.5.1 During the mulligan each player may discard a card (face-down) from their hand to draw 1. This may be done upto three times, and you do not need to draw all three at once.<br>
         1.5.1.x: The opponent is not allowed to see the discarded cards but can know how many cards you chose to discard.  <br>
-    1.5.2: They can perform this up to 3 times. <br>
     1.5.3: After both players have finished mulliganing shuffle all discarded cards back into the deck. <br>
 
 1.6: Both players starts with 20 Heathshards (or HS) and 1 Plasma. <br>
