@@ -3,8 +3,7 @@
 <h2> 0: About this Document </h2> <br>
 
 0.1: This is the TGC Comprehensive Rules, explaining how to play the TGC. <br>
-0.2: Any deviations between this document, other documents and/or the Wiki then this document\'s wording is the ruling one.<br>
-    0.2.1: An exception is given to the rulings document, which can overrule these rules when talking about specific cards. <br>
+0.2: Card text takes priority over the rules, and specific interactions mentioned in this repository take priority over the general rules.<br>
 0.3: Sections marked as ".x:" are clarifications; they are not necessary rules text but examples, reminders and etc to make learning the game easier. <br>
     0.3.1: Sections ".x:" also fall under rule 0.2 in that if there were to be deviations or contradictions between the ".x:" sections and the main sections of this document then the non-".x:" sections take precedence over the ".x:" ones. <br>
 
