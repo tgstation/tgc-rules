@@ -45,7 +45,7 @@
 
 1.10: During the Draw Phase a number of automatic game actions happen, in the following order. <br>
     1.10.1: The turn player\'s plasma gets set to the amount of Draw Phases they have had in total, including this one. <br>
-        1.10.1.x: So on their first turn they get 1 mana, on their second 2 mana, on their third 3 mana, etc. <br>
+        1.10.1.x: So on their first turn they get 1 plasma, on their second 2 plasma, on their third 3 plasma, etc. <br>
     1.10.2: The turn player draws a card. <br>
     1.10.3: The turn player untaps all their tapped cards. <br>
     1.10.4: The "Pass Phase" action is immediately performed. <br>
